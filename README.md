@@ -16,3 +16,27 @@ This repository will introduce a data science project which aimed to provide mov
 
 ```
 ## Key Findings
+### Common Characteristics of Top-Scored Movies
+#### Popular Movie Themes
+<p align='center'>
+  <img src='https://github.com/shual25/Movie_recommandation_system/blob/main/Graphs/keywords.png'>
+</p>
+
+#### Popular Movie Genres
+<p align='center'>
+  <img src='https://github.com/shual25/Movie_recommandation_system/blob/main/Graphs/genres.png'>
+</p>
+
+#### Percentage of Top-Scored Movies per Decades
+<p align='center'>
+  <img src='https://github.com/shual25/Movie_recommandation_system/blob/main/Graphs/decade.png'>
+</p>
+
+### Testing the CBF Recommendation System
+<p align='center'>
+  <img src='https://github.com/shual25/Movie_recommandation_system/blob/main/Graphs/Testing1.png'>
+</p>
+
+<p align='center'>
+  <img src='https://github.com/shual25/Movie_recommandation_system/blob/main/Graphs/Testing2.png'>
+</p>
