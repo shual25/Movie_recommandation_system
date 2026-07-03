@@ -40,3 +40,5 @@ This repository will introduce a data science project which aimed to provide mov
 <p align='center'>
   <img src='https://github.com/shual25/Movie_recommandation_system/blob/main/Graphs/Testing2.png'>
 </p>
+
+For more details about data processing, visualizations, text analysis, and the construction of recommendation system, go check [**DATA ANALYSIS NOTEBOOK**](https://github.com/shual25/Movie_recommandation_system/blob/main/Movie%20Recommendation%20System.ipynb)
