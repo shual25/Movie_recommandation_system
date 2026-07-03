@@ -1,13 +1,18 @@
 # Movie Recommendation System
 @Shuang Liu
 ## Project Overview
-- Introduction:
-- Output:
-### Goal
-
+This repository will introduce a data science project which aimed to provide movie recommendations for users based on approximately 5000 movies obtained from the TMDB. A series of data manipulation methods were applied to the data, including standardization, data imputation, feature selection, and feature engineering. Two kinds of recommendation systems were developed:
+- **Demographic Filtering**: Generate generalized recommendations based on a self-defined weighted rating metric for each movie. 
+- **Content Based Filtering**: Calculate Euclidean cosine similarity scores between movies after performing vectorization using TF-IDF and generating metadata, to get top 5 most similar movies.
 ### Data
-
+**Description**: Merged multi-source datasets of movie data including features such as title, genres, keywords, ratings, etc., as well as cast and staff data.
 ## Repo Structure
+```
+├── README.md                              <- You are here
+├
+├── Movie Recommendation System.ipynb      <- Jupyter notebook containing EDA, feature enginnering, visuallizations, and two recommandation systems
+├
+├── requirements.txt                       <- Python package dependencies
 
+```
 ## Key Findings
-
